@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "nome": "Produto 1",
+      "descricao": "Notebook Dell 2 em 1.",
+      "preco": "R$ 100,00"
+    },
+    {
+      "nome": "Produto 2",
+      "descricao": "Notebook Dell.",
+      "preco": "R$ 200,00"
+    },
+    {
+      "nome": "Produto 3",
+      "descricao": "PC Dell.",
+      "preco": "R$ 300,00"
+    }
+  ]
+}

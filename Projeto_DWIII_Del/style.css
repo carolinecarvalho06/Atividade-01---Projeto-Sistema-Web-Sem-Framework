@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  background-color: #0076ce;
+  color: white;
+  padding: 15px;
+}
+
+p {
+  max-width: 600px;
+  margin: 10px auto;
+}
+
+img {
+  margin: 20px;
+  border-radius: 10px;
+}
+
+a {
+  display: inline-block;
+  margin: 15px;
+  text-decoration: none;
+  background-color: #0076ce;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: #005fa3;
+}
+
+#lista-produtos {
+  margin-top: 20px;
+}
